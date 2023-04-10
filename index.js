@@ -7,7 +7,7 @@ window.addEventListener("load", function() {
 
   switch (randomnumber1) {
     case 1:
-      img1.setAttribute("src", "images//dice1.png");
+      img1.setAttribute("src", "https://github.com/Devrex0676/dicee/blob/9ffa026fc7a81d78df8481d975928bf43dabb867/images/dice1.png");
       break;
     case 2:
       img1.setAttribute("src", "images//dice2.png");
