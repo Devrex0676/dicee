@@ -7,22 +7,22 @@ window.addEventListener("load", function() {
 
   switch (randomnumber1) {
     case 1:
-      img1.setAttribute("src", "images/dice1.png");
+      img1.setAttribute("src", "images//dice1.png");
       break;
     case 2:
-      img1.setAttribute("src", "images/dice2.png");
+      img1.setAttribute("src", "images//dice2.png");
       break;
     case 3:
-      img1.setAttribute("src", "images/dice3.png");
+      img1.setAttribute("src", "images//dice3.png");
       break;
     case 4:
-      img1.setAttribute("src", "images/dice4.png");
+      img1.setAttribute("src", "images//dice4.png");
       break;
     case 5:
-      img1.setAttribute("src", "images/dice5.png");
+      img1.setAttribute("src", "images//dice5.png");
       break;
     case 6:
-      img1.setAttribute("src", "images/dice6.png");
+      img1.setAttribute("src", "images//dice6.png");
       break;
     default:
       break;
